@@ -1,12 +1,13 @@
 # CHOWNET-V1: An Image Dataset of Nigerian Food
 
+> CHOWNET-V1 is a high-quality dataset containing 118 human-annotated food images, designed for multi-label classification, food object detection, and food captioning tasks. We curated a dataset of 118 food images with 99 unique labels. The dataset is available for download at [link]().
+
 People from diverse cultural backgrounds often have distinct food preferences, with studies [1] indicating that individuals connect with their food choices as an expression of identity. Building on our community's 2018 initiative to gather a dataset of Nigerian food images—aimed at addressing the poor classification of Nigerian cuisine by object detection models (see Fig)—we present CHOWNET-V1. 
 
 ![image](https://github.com/user-attachments/assets/0bb7b77a-4da1-499d-9d27-22b654dd0f78)
 
 *Image Link: https://towardsdatascience.com/real-time-object-detection-api-using-tensorflow-and-opencv-47b505d745c4*
 
-> CHOWNET-V1 is a high-quality dataset containing 118 human-annotated food images, designed for multi-label classification, food object detection, and food captioning tasks. We curated a dataset of 118 food images with 99 unique labels. The dataset is available for download at <link>.
 
 ## Data Collection
 In 2018, our community initiated a project to curate a dataset of the foods we consume. We employed three different approaches to gather this data:
