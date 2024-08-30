@@ -1,1 +1,0 @@
-# Jollof Rice
