@@ -1,0 +1,697 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Aganyi Beans"
+    },
+    {
+      "id": 1,
+      "name": "Aganyi Stew"
+    },
+    {
+      "id": 2,
+      "name": "Amala"
+    },
+    {
+      "id": 3,
+      "name": "Assorted Meat"
+    },
+    {
+      "id": 4,
+      "name": "Assorted Protein"
+    },
+    {
+      "id": 5,
+      "name": "Asun"
+    },
+    {
+      "id": 6,
+      "name": "Baked Beans"
+    },
+    {
+      "id": 7,
+      "name": "Banana Bread"
+    },
+    {
+      "id": 8,
+      "name": "Baton Fried Plantain"
+    },
+    {
+      "id": 9,
+      "name": "Baton Fried Potato"
+    },
+    {
+      "id": 10,
+      "name": "Baton Fried Yam"
+    },
+    {
+      "id": 11,
+      "name": "Beans"
+    },
+    {
+      "id": 12,
+      "name": "Beans Porridge"
+    },
+    {
+      "id": 13,
+      "name": "Beef"
+    },
+    {
+      "id": 14,
+      "name": "Beef Tripe"
+    },
+    {
+      "id": 15,
+      "name": "Birthday Cake"
+    },
+    {
+      "id": 16,
+      "name": "Biscuit"
+    },
+    {
+      "id": 17,
+      "name": "Black Swallow"
+    },
+    {
+      "id": 18,
+      "name": "Boiled Chicken"
+    },
+    {
+      "id": 19,
+      "name": "Boiled Egg"
+    },
+    {
+      "id": 20,
+      "name": "Boiled Fish"
+    },
+    {
+      "id": 21,
+      "name": "Boiled Potato"
+    },
+    {
+      "id": 22,
+      "name": "Boiled Turkey"
+    },
+    {
+      "id": 23,
+      "name": "Boiled Yam"
+    },
+    {
+      "id": 24,
+      "name": "Bread"
+    },
+    {
+      "id": 25,
+      "name": "Cabbage"
+    },
+    {
+      "id": 26,
+      "name": "Cake"
+    },
+    {
+      "id": 27,
+      "name": "Chicken"
+    },
+    {
+      "id": 28,
+      "name": "Coconot Rice"
+    },
+    {
+      "id": 29,
+      "name": "Coleslaw"
+    },
+    {
+      "id": 30,
+      "name": "Cow Skin"
+    },
+    {
+      "id": 31,
+      "name": "Cucumber"
+    },
+    {
+      "id": 32,
+      "name": "Diced Fried Plantain"
+    },
+    {
+      "id": 33,
+      "name": "Diced Sliced Plantain"
+    },
+    {
+      "id": 34,
+      "name": "Dry Fish"
+    },
+    {
+      "id": 35,
+      "name": "Eba"
+    },
+    {
+      "id": 36,
+      "name": "Egg"
+    },
+    {
+      "id": 37,
+      "name": "Egg Noodles"
+    },
+    {
+      "id": 38,
+      "name": "Egg White"
+    },
+    {
+      "id": 39,
+      "name": "Egg Yolk"
+    },
+    {
+      "id": 40,
+      "name": "Egusi Soup"
+    },
+    {
+      "id": 41,
+      "name": "Ewedu"
+    },
+    {
+      "id": 42,
+      "name": "Fish"
+    },
+    {
+      "id": 43,
+      "name": "Fish Sauce"
+    },
+    {
+      "id": 44,
+      "name": "Fish Stew"
+    },
+    {
+      "id": 45,
+      "name": "Fried Beef"
+    },
+    {
+      "id": 46,
+      "name": "Fried Chicken"
+    },
+    {
+      "id": 47,
+      "name": "Fried Egg"
+    },
+    {
+      "id": 48,
+      "name": "Fried Fish"
+    },
+    {
+      "id": 49,
+      "name": "Fried Irish Potato"
+    },
+    {
+      "id": 50,
+      "name": "Fried Plantain"
+    },
+    {
+      "id": 51,
+      "name": "Fried Potato"
+    },
+    {
+      "id": 52,
+      "name": "Fried Prawns"
+    },
+    {
+      "id": 53,
+      "name": "Fried Rice"
+    },
+    {
+      "id": 54,
+      "name": "Fried Turkey"
+    },
+    {
+      "id": 55,
+      "name": "Fried Yam"
+    },
+    {
+      "id": 56,
+      "name": "Fufu"
+    },
+    {
+      "id": 57,
+      "name": "Garnished Fried Egg"
+    },
+    {
+      "id": 58,
+      "name": "Garnished Noodle"
+    },
+    {
+      "id": 59,
+      "name": "Garnished Spaghetti"
+    },
+    {
+      "id": 60,
+      "name": "Garnished Vegetables"
+    },
+    {
+      "id": 61,
+      "name": "Gbegiri"
+    },
+    {
+      "id": 62,
+      "name": "Gbegiri and Ewedu"
+    },
+    {
+      "id": 63,
+      "name": "Green Sauce"
+    },
+    {
+      "id": 64,
+      "name": "Grilled Chicken"
+    },
+    {
+      "id": 65,
+      "name": "Grilled Turkey"
+    },
+    {
+      "id": 66,
+      "name": "Grinded Pepper"
+    },
+    {
+      "id": 67,
+      "name": "Hot dog"
+    },
+    {
+      "id": 68,
+      "name": "Jollof Pasta"
+    },
+    {
+      "id": 69,
+      "name": "Jollof Rice"
+    },
+    {
+      "id": 70,
+      "name": "Macaroni"
+    },
+    {
+      "id": 71,
+      "name": "Macaroni and Cheese"
+    },
+    {
+      "id": 72,
+      "name": "Mashed Porridge Yam"
+    },
+    {
+      "id": 73,
+      "name": "Mashed Yam Porridge"
+    },
+    {
+      "id": 74,
+      "name": "Meat"
+    },
+    {
+      "id": 75,
+      "name": "Meat  Stir-fry"
+    },
+    {
+      "id": 76,
+      "name": "Meat and Veggie Stir-Fry"
+    },
+    {
+      "id": 77,
+      "name": "Milk"
+    },
+    {
+      "id": 78,
+      "name": "Mixed Protein Sauce"
+    },
+    {
+      "id": 79,
+      "name": "Mixed Rice"
+    },
+    {
+      "id": 80,
+      "name": "Moi-Moi"
+    },
+    {
+      "id": 81,
+      "name": "Noddles"
+    },
+    {
+      "id": 82,
+      "name": "Noodle"
+    },
+    {
+      "id": 83,
+      "name": "Noodles"
+    },
+    {
+      "id": 84,
+      "name": "Ofada Rice"
+    },
+    {
+      "id": 85,
+      "name": "Ofada Stew"
+    },
+    {
+      "id": 86,
+      "name": "Other"
+    },
+    {
+      "id": 87,
+      "name": "Others"
+    },
+    {
+      "id": 88,
+      "name": "Pap"
+    },
+    {
+      "id": 89,
+      "name": "Pap and Milk"
+    },
+    {
+      "id": 90,
+      "name": "Pepped Boiled Chicken"
+    },
+    {
+      "id": 91,
+      "name": "Pepped Boiled Fish"
+    },
+    {
+      "id": 92,
+      "name": "Pepped Fried Beef"
+    },
+    {
+      "id": 93,
+      "name": "Pepped Fried Chicken"
+    },
+    {
+      "id": 94,
+      "name": "Pepped Fried Egg"
+    },
+    {
+      "id": 95,
+      "name": "Pepper Sauce"
+    },
+    {
+      "id": 96,
+      "name": "Peppered Beef"
+    },
+    {
+      "id": 97,
+      "name": "Peppered Boiled Chicken"
+    },
+    {
+      "id": 98,
+      "name": "Peppered Boiled Fish"
+    },
+    {
+      "id": 99,
+      "name": "Peppered Cow Skin"
+    },
+    {
+      "id": 100,
+      "name": "Peppered Fried Beef"
+    },
+    {
+      "id": 101,
+      "name": "Peppered Fried Chicken"
+    },
+    {
+      "id": 102,
+      "name": "Peppered Fried Egg"
+    },
+    {
+      "id": 103,
+      "name": "Peppered Fried Fish"
+    },
+    {
+      "id": 104,
+      "name": "Peppered Noodles"
+    },
+    {
+      "id": 105,
+      "name": "Peppered Snail"
+    },
+    {
+      "id": 106,
+      "name": "Plain Beans"
+    },
+    {
+      "id": 107,
+      "name": "Plantain"
+    },
+    {
+      "id": 108,
+      "name": "Porridge Beans"
+    },
+    {
+      "id": 109,
+      "name": "Porridge Yam"
+    },
+    {
+      "id": 110,
+      "name": "Porridge Yam and Beans"
+    },
+    {
+      "id": 111,
+      "name": "Porrige Beans"
+    },
+    {
+      "id": 112,
+      "name": "Potato"
+    },
+    {
+      "id": 113,
+      "name": "Pounded Yam"
+    },
+    {
+      "id": 114,
+      "name": "Prawn"
+    },
+    {
+      "id": 115,
+      "name": "Prawns"
+    },
+    {
+      "id": 116,
+      "name": "Protein"
+    },
+    {
+      "id": 117,
+      "name": "Red Tomato"
+    },
+    {
+      "id": 118,
+      "name": "Rice"
+    },
+    {
+      "id": 119,
+      "name": "Rice and Beans"
+    },
+    {
+      "id": 120,
+      "name": "Roasted Chicken"
+    },
+    {
+      "id": 121,
+      "name": "Roasted Turkey"
+    },
+    {
+      "id": 122,
+      "name": "Salad"
+    },
+    {
+      "id": 123,
+      "name": "Sauce"
+    },
+    {
+      "id": 124,
+      "name": "Sausage"
+    },
+    {
+      "id": 125,
+      "name": "Sausage Noodle"
+    },
+    {
+      "id": 126,
+      "name": "Sausage Noodles"
+    },
+    {
+      "id": 127,
+      "name": "Sausage Roll"
+    },
+    {
+      "id": 128,
+      "name": "Sausage Shrimps Veggie Stir-fry"
+    },
+    {
+      "id": 129,
+      "name": "Sausage Shrimps Veggie Stir-fry Pasta"
+    },
+    {
+      "id": 130,
+      "name": "Sausage Veggie Stir-fry Pasta"
+    },
+    {
+      "id": 131,
+      "name": "Sausage, Shrimps, Veggie Stir-fry"
+    },
+    {
+      "id": 132,
+      "name": "Sausage, Shrimps, Veggie Stir-fry Pasta"
+    },
+    {
+      "id": 133,
+      "name": "Sausage, Veggie Stir-fry Pasta"
+    },
+    {
+      "id": 134,
+      "name": "Seasoned Chicken"
+    },
+    {
+      "id": 135,
+      "name": "Shawarma"
+    },
+    {
+      "id": 136,
+      "name": "Shrimp"
+    },
+    {
+      "id": 137,
+      "name": "Shrimps"
+    },
+    {
+      "id": 138,
+      "name": "Sliced Bread"
+    },
+    {
+      "id": 139,
+      "name": "Sliced Fried Plaintain"
+    },
+    {
+      "id": 140,
+      "name": "Sliced Fried Plantain"
+    },
+    {
+      "id": 141,
+      "name": "Snail"
+    },
+    {
+      "id": 142,
+      "name": "Soup"
+    },
+    {
+      "id": 143,
+      "name": "Spaghetti"
+    },
+    {
+      "id": 144,
+      "name": "Spring Roll"
+    },
+    {
+      "id": 145,
+      "name": "Stew"
+    },
+    {
+      "id": 146,
+      "name": "Stock Fish"
+    },
+    {
+      "id": 147,
+      "name": "Suya"
+    },
+    {
+      "id": 148,
+      "name": "Swallow"
+    },
+    {
+      "id": 149,
+      "name": "Tomato"
+    },
+    {
+      "id": 150,
+      "name": "Tomato Soup"
+    },
+    {
+      "id": 151,
+      "name": "Turkey"
+    },
+    {
+      "id": 152,
+      "name": "Vegetable"
+    },
+    {
+      "id": 153,
+      "name": "Vegetable Egusi Soup"
+    },
+    {
+      "id": 154,
+      "name": "Vegetable Soup"
+    },
+    {
+      "id": 155,
+      "name": "Vegetable Stew"
+    },
+    {
+      "id": 156,
+      "name": "Veggie Fried Egg"
+    },
+    {
+      "id": 157,
+      "name": "Veggie Jollof Pasta"
+    },
+    {
+      "id": 158,
+      "name": "Veggie Jollof Rice"
+    },
+    {
+      "id": 159,
+      "name": "Veggie Noodles"
+    },
+    {
+      "id": 160,
+      "name": "Veggie Pasta"
+    },
+    {
+      "id": 161,
+      "name": "Veggie Sauce"
+    },
+    {
+      "id": 162,
+      "name": "Veggie Stir-fry"
+    },
+    {
+      "id": 163,
+      "name": "Veggie Stir-fry Pasta"
+    },
+    {
+      "id": 164,
+      "name": "Veggie Stir-fry with Sausage and Shrimps"
+    },
+    {
+      "id": 165,
+      "name": "White  Swallow"
+    },
+    {
+      "id": 166,
+      "name": "White Rice"
+    },
+    {
+      "id": 167,
+      "name": "Wrapped Fufu"
+    },
+    {
+      "id": 168,
+      "name": "Yam"
+    },
+    {
+      "id": 169,
+      "name": "Yam Porridge"
+    },
+    {
+      "id": 170,
+      "name": "Yam and Beans Porridge"
+    },
+    {
+      "id": 171,
+      "name": "Yellow Tomato"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
